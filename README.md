@@ -12,3 +12,4 @@ Calculates average grade from multiple subjects.
 - Loops
 - Conditionals
 - Input/output
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibakashif123/project-1-grade-calculator/blob/main/Calculator.ipynb)
